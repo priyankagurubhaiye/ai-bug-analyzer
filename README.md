@@ -149,16 +149,15 @@ Logs: Timeout from payment gateway API
 ## 📸 Screenshots
 
 ```id="s9n1n3"
-![App Screenshot] (screenshot/ui.png )
+![UI](https://github.com/priyankagurubhaiye/ai-bug-analyzer/blob/main/screenshot/ui.png)
+
 
 ```
-
----
 
 ## 🎥 Demo Video
 
 ```id="c4kz7y"
-[Watch Demo](your-video-link)
+[Watch Demo]
 ```
 
 ---
