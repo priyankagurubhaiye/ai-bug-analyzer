@@ -1,0 +1,13 @@
+Checkout payment failure
+
+Steps:
+1. Add item to cart
+2. Proceed to checkout
+3. Enter payment details
+4. Click Pay
+
+Error:
+500 Internal Server Error
+
+Logs:
+Timeout from payment gateway API
