@@ -152,11 +152,9 @@ Logs: Timeout from payment gateway API
 ```
 
 ## 🎥 Demo Video
-
-```id="c4kz7y"
 [Watch Demo]
 ```
-
+https://www.linkedin.com/posts/priyanka-gurubhaiye_qa-aitesting-genai-activity-7442792025143341056-nktI?utm_source=share&utm_medium=member_desktop&rcm=ACoAABAqU20BbYL0lb-tCQRRfqi3VvmJNJU7sBU
 ---
 
 ## 🚧 Future Enhancements
